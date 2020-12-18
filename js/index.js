@@ -4,7 +4,7 @@ var to = 'Carlo';
 
 
 var gifts = [
-    ["21 Lessons for the 21st Century", "https://m.media-amazon.com/images/I/41SxL78DpvL.jpg", "https://www.google.com"]
+    ["21 Lessons for the 21st Century", "https://m.media-amazon.com/images/I/41SxL78DpvL.jpg", "https://amazon.com"]
 ]
 
 
